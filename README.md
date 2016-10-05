@@ -1,6 +1,6 @@
 # MatchGame
 
-Demo: https://pallavibhakare.github.io/ColorGuessingGame/
+Demo:  https://pallavibhakare.github.io/JsMatchGame/
 
 Couse Name: HTML, CSS and JavaScript
 
